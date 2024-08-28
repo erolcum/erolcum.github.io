@@ -117,7 +117,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $lightGray;
+  color: #A3A3A3;
 }
 
 // Specify the color of the selection
@@ -156,7 +156,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid #0045FF;
+  border-bottom: 1px solid #F44336; // üst çizgi rengi
 
   @include mobile {
     text-align: center;
@@ -192,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $lightGray;
+  color: #F44336; // site ismi
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $lightGray;
+  color: #A3A3A3;
   font-size: 16px;
 
   @include mobile {
