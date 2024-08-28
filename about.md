@@ -4,7 +4,7 @@ title: Ben kimim ?
 permalink: /about/
 ---
 
-[my automation blog](https://erolcum.blogspot.com) isimli blog sayfamda bulunan profilime bakabilirsin. Ayrıca bu sayfanın altında bulunan linklerden de bilgi alabilirsin..
+[my automation blog](https://erolcum.blogspot.com) isimli blog sayfamda bulunan profilime bakabilirsin. Ayrıca bu sayfanın altında bulunan linklerden de bilgi alabilir, bana mail atabilirsin.
 
 ### More Information
 
