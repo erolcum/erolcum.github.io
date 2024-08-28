@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Ben kimim?
+title: Ben kimim ?
 permalink: /about/
 ---
 
-Some information about you!
+Sayfanın altında bulunan linklerden bilgi alabilirsin..
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Blog
 
-### Contact me
+### e-posta
 
-[email@domain.com](mailto:email@domain.com)
+[erol.iscioglu@gmail.com](mailto:erol.iscioglu@gmail.com)
