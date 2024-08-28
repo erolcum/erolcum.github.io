@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $lightGray;
+  color: #F0F8FF;   // başlıklar
   font-weight: bold;
 
   line-height: 1.7;
@@ -195,7 +195,8 @@ img {
   color: #F44336; // site ismi
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
+  //font-weight: 300;
+  font-weight: bold;
   font-size: 28px;
   letter-spacing: 1px;
 }
