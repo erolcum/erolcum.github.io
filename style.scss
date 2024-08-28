@@ -156,7 +156,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid #F44336; // üst çizgi rengi
+  border-bottom: 1px solid #34495E ; // üst çizgi rengi
 
   @include mobile {
     text-align: center;
@@ -276,7 +276,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: #34495E;
+  background-color: #34495E;     // footer
 }
 
 footer {
