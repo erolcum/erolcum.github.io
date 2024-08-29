@@ -14,7 +14,7 @@ PB ile C#'ı karşılaştırmak gerekirse.. C#, dil yapısı ve kütüphane say�
 
 Özellikle yazılıma yeni başlayanlar için kesinlikle önce bu dili öğrenmelerini tavsiye ederim. PureBasic dilinin kolaylığı ile hemen iş bitiren yazılımlar yapmaya başlayabilirsiniz..
 
-Bu blog sayfalarında sadece PB ile ilgili yazılar yazacağım, takipte kalınız.. Blog yazılarıma bakmak için sayfanın sağ üst tarafında kalan [Blog](https://erolcum.github.io/) linkine tıklayınız. Daha önce duymadıysanız, PB ile ilgili tanıtım amaçlı olarak, [Robolink Akademi](https://akademi.robolinkmarket.com/purebasic-nedir) sayfasında ve yukarıda bahsettiğim diğer blog sayfamda birkaç yazım var.
+Bu blog sayfalarında sadece PB ile ilgili yazılar yazacağım, takipte kalınız.. Blog yazılarıma bakmak için sayfanın sağ üst tarafında kalan [Blog](https://erolcum.github.io/) linkine tıklayınız. Daha önce PB'i duymadıysanız, PB ile ilgili tanıtım amaçlı olarak, [Robolink Akademi](https://akademi.robolinkmarket.com/purebasic-nedir) sayfasında ve yukarıda bahsettiğim diğer blog sayfamda birkaç yazım var. Zaten öncelikle o yazıları okumanız daha faydalı olacaktır.
 
 <br><br>
 
