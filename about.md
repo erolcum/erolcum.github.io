@@ -4,8 +4,6 @@ title: Ben kimim ?
 permalink: /about/
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ferolcum.github.io%2Fabout%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [my automation blog](https://erolcum.blogspot.com) isimli blog sayfamda bulunan profilime bakabilirsin. Ayrıca bu sayfanın altında bulunan linklerden de bilgi alabilir, bana mail atabilirsin.
 
 ### PB ile kendi yazılımını kendin yap
@@ -21,3 +19,5 @@ Bu blog sayfalarında sadece PB ile ilgili yazılar yazacağım. Daha önce duym
 
 
 [erol.iscioglu@gmail.com](mailto:erol.iscioglu@gmail.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ferolcum.github.io%2Fabout%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
