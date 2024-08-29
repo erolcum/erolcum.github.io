@@ -6,7 +6,7 @@ permalink: /about/
 
 [my automation blog](https://erolcum.blogspot.com) isimli blog sayfamda bulunan profilime bakabilirsin. Ayrıca bu sayfanın altında bulunan linklerden de bilgi alabilir, bana mail atabilirsin.
 
-### PB ile kendi yazılımını kendin yap
+## PB ile kendi yazılımını kendin yap
 
 Elektrik mühendisi olmama rağmen, yazılım işlerine oldum olası meraklıyımdır. Yeni birşey öğrenmek, hem bir ihtiyaç doğunca, hem de merak olunca daha keyifli oluyor. Yıllar içinde birçok yazılım dilini, çok derinlere dalmadan kurcalamışlığım vardır. Bu zamana kadar felsefem, hep kendi işimi görecek kadar öğrenmek, şeklinde olmuştur. Ta ki [PureBasic](https://www.purebasic.com) ile tanışana kadar.. PB, özellikleri sayesinde beni kendine hayran bıraktı. Bu dili geliştiren Fred, şöyle düşünmüş sanırım, kullanıcı fazla uğraşmasın, kolay bir şekilde, kimseye minnet etmeden işini halletsin, sonra da bana dua etsin.. 😅 PB'nin 1600+ komuta sahip olmasının nedeni işte budur.
 
