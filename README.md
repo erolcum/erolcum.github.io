@@ -1,6 +1,7 @@
-> March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
 # Jekyll Now
+
+Kendi bilgisayarına hiçbir kurulum yapmadan (ruby vs.) online olarak kendi blog sayfanızı kullanıcıAdı.github.io olarak oluşturabilirsin. [Jekyll Now](https://github.com/barryclark/jekyll-now) dan kendi github hesabına fork yapman yeterli oluyor. Baktım ki oluşan sayfada arka fon rengi açık renk, kendim style.css dosyasını oynayarak koyu temalı sayfa yaptım. Sayfama buradan bakabilirsin. HTML filan bilmeye gerek yok, markdown ile kolayca web sayfanı yapabilirsin..
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
