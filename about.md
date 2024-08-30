@@ -17,8 +17,7 @@ PB ile C#'ı karşılaştırmak gerekirse.. C#, dil yapısı ve kütüphane say�
 Bu blog sayfalarında sadece PB ile ilgili yazılar yazacağım, takipte kalınız.. Blog yazılarıma bakmak için sayfanın sağ üst tarafında kalan [Blog](https://erolcum.github.io/) linkine tıklayınız. Daha önce PB'i duymadıysanız, PB ile ilgili tanıtım amaçlı olarak, [Robolink Akademi](https://akademi.robolinkmarket.com/purebasic-nedir) sayfasında ve yukarıda bahsettiğim diğer blog sayfamda birkaç yazım var. Zaten öncelikle o yazıları okumanız daha faydalı olacaktır.
 
 <br><br>
-![image](https://github.com/user-attachments/assets/04b94df8-1df9-48e2-b8db-72ae9a044abb)
-
+![image](https://github.com/user-attachments/assets/f6dc2b41-3b39-4826-a751-39f148121324)
 <br><br>
 
 [erol.iscioglu@gmail.com](mailto:erol.iscioglu@gmail.com)
