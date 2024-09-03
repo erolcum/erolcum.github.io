@@ -14,8 +14,8 @@ PB ile C#'ı karşılaştırmak gerekirse.. C#, hacmi ve kütüphane sayısı ol
 
 Özellikle yazılıma yeni başlayanlar için kesinlikle önce bu dili öğrenmelerini tavsiye ederim. PureBasic dilinin kolaylığı ile hemen iş bitiren yazılımlar yapmaya başlayabilirsin..
 
-Bu blog sayfalarında sadece PB ile ilgili yazılar yazacağım, takipte kalınız.. Blog yazılarıma bakmak için sayfanın sağ üst tarafında kalan [Blog](https://erolcum.github.io/) linkine tıklayabilirsin. Daha önce PB'i duymadıysan, PB ile ilgili tanıtım amaçlı olarak, [Robolink Akademi](https://akademi.robolinkmarket.com/purebasic-nedir) sayfasında ve yukarıda bahsettiğim diğer blog sayfamda birkaç yazım var. Zaten öncelikle o yazıları okuman daha faydalı olacaktır.<br><br>
-erol
+Bu blog sayfalarında sadece PB ile ilgili yazılar yazacağım, takipte kalınız.. Blog yazılarıma bakmak için sayfanın sağ üst tarafında kalan [Blog](https://erolcum.github.io/) linkine tıklayabilirsin. Daha önce PB'i duymadıysan, PB ile ilgili tanıtım amaçlı olarak, [Robolink Akademi](https://akademi.robolinkmarket.com/purebasic-nedir) sayfasında ve yukarıda bahsettiğim diğer blog sayfamda birkaç yazım var. Zaten öncelikle o yazıları okuman daha faydalı olacaktır.
+
 
 <br><br>
 ![image](https://github.com/user-attachments/assets/9285c435-6c17-4dbe-b628-fb07b9bbc9c0)
