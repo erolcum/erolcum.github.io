@@ -1,1 +1,2 @@
+Kendi bilgisayarına tek bir kurulum yapmadan (ruby vs.) online olarak kendi blog sayfanı githubKullanıcıAdın.github.io olarak oluşturabilirsin. Jekyll Now dan kendi github hesabına fork yapman yeterli oluyor. _config.yml dosyasına birkaç bilgi giriyorsun. Baktım ki oluşan sayfada arka fon rengi açık renk, kendim style.scss dosyasını oynayarak koyu temalı sayfa yaptım. Sayfama buradan bakabilirsin. HTML, CSS filan bilmeye gerek yok, markdown ile kolayca web sayfanı yapabilirsin..
 
