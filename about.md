@@ -21,6 +21,6 @@ Bu blog sayfalarında sadece PB ile ilgili yazılar yazacağım, takipte kalın�
 ![image](https://github.com/user-attachments/assets/9285c435-6c17-4dbe-b628-fb07b9bbc9c0)
 <br><br>
 
-[erol.iscioglu@gmail.com](mailto:erol.iscioglu@gmail.com)
+[erol.iscioglu@yaani.com](mailto:erol.iscioglu@yaani.com)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ferolcum.github.io%2Fabout%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
