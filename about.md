@@ -16,7 +16,7 @@ PB ile C#'ı karşılaştırmak gerekirse.. C#, hacmi ve kütüphane sayısı ol
 
 Bu blog sayfalarında sadece PB veya programlama ile ilgili yazılar yazacağım.. Sayfanın altında bulunan [GitHub](https://github.com/erolcum/PureBasic) linkinde de faydalı kod parçalarını paylaşıyor olacağım. Blog yazılarıma bakmak için sayfanın sağ üst tarafında kalan [Blog](https://erolcum.github.io/) linkine tıklayabilirsin. Daha önce PB'i duymadıysan, PB ile ilgili tanıtım amaçlı olarak, [Robolink Akademi](https://akademi.robolinkmarket.com/purebasic-nedir) sayfasında ve yukarıda, ben kimim başlığı altında linkini paylaştığım diğer blog sayfamda birkaç yazım var. Zaten öncelikle o yazıları okuman daha faydalı olacaktır.
 
-[Forumda](https://www.purebasic.fr/english) olduğu gibi bir programlama dilinin otomatik olarak uluslararası bir iletişim aracı haline gelmesi gerçekten çok güzel birşey. Yani insanlar konuşurken ya da yazarken yanlış anlaşılabilirler ama bir program yazdığında program ya çalışır ya da çalışmaz. Kendini, işlemciye doğru ifade etmelisin. Purebasic ile bilgisayara, hızlı ve kolay bir şekilde derdini anlatabilirsin.
+[Forumda](https://www.purebasic.fr/english) olduğu gibi bir programlama dilinin otomatik olarak uluslararası bir iletişim aracı haline gelmesi gerçekten çok güzel birşey. İnsanlar konuşurken ya da yazarken yanlış anlaşılabilirler ama bir program yazdığında program ya çalışır ya da çalışmaz. Kendini, işlemciye doğru ifade etmelisin. Purebasic ile bilgisayara, hızlı ve kolay bir şekilde derdini anlatabilirsin.
 
 
 <br><br>
