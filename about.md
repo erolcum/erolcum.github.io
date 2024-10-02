@@ -14,10 +14,10 @@ PB ile C#'ı karşılaştırmak gerekirse.. C#, hacmi ve kütüphane sayısı ol
 
 Özellikle yazılıma yeni başlayanlar için kesinlikle önce bu dili öğrenmelerini tavsiye ederim. PureBasic dilinin kolaylığı ile hemen iş bitiren yazılımlar yapmaya başlayabilirsin..
 
-Bu blog sayfalarında sadece PB veya programlama ile ilgili yazılar yazacağım.. Sayfanın altında bulunan [GitHub](https://github.com/erolcum/PureBasic) linkinde de faydalı kod parçalarını paylaşıyor olacağım. Blog yazılarıma bakmak için sayfanın sağ üst tarafında kalan [Blog](https://erolcum.github.io/) linkine tıklayabilirsin. Daha önce PB'i duymadıysan, PB ile ilgili tanıtım amaçlı olarak, [Robolink Akademi](https://akademi.robolinkmarket.com/purebasic-nedir) sayfasında ve yukarıda, ben kimim başlığı altında linkini paylaştığım diğer blog sayfamda birkaç yazım var. Zaten öncelikle o yazıları okuman daha faydalı olacaktır.
+Sayfanın altında bulunan [GitHub](https://github.com/erolcum/PureBasic) linkinde de faydalı kod parçalarını paylaşıyor olacağım. Blog yazılarıma bakmak için sayfanın sağ üst tarafında kalan [Blog](https://erolcum.github.io/) linkine tıklayabilirsin. Daha önce PB'i duymadıysan, PB ile ilgili tanıtım amaçlı olarak, [Robolink Akademi](https://akademi.robolinkmarket.com/purebasic-nedir) sayfasında ve yukarıda, ben kimim başlığı altında linkini paylaştığım diğer blog sayfamda birkaç yazım var. Zaten öncelikle o yazıları okuman daha faydalı olacaktır.
 
 [Forumda](https://www.purebasic.fr/english) olduğu gibi bir programlama dilinin otomatik olarak uluslararası bir iletişim aracı haline gelmesi gerçekten çok güzel birşey. Müziğin evrenselliği gibi kodlar da farklı ülkelerde yaşayan, farklı diller konuşan insanları ortak bir noktada buluşturuyor.<br><br>
-İnsanlar konuşurken ya da yazarken yanlış anlaşılabilirler ama bir program yazdığında program ya çalışır ya da çalışmaz. Kendini, işlemciye veya işletim sistemine doğru ifade etmelisin. Purebasic ile bilgisayara, hızlı ve kolay bir şekilde derdini anlatabilir, istediğini ondan alabilirsin.
+İnsanlar konuşurken ya da yazarken yanlış anlaşılabilirler ama bir program yazdığında program ya çalışır ya da çalışmaz. Kendini, işlemciye veya işletim sistemine doğru ifade etmelisin. PureBasic ile bilgisayara, hızlı ve kolay bir şekilde derdini anlatabilir, istediğini ondan alabilirsin.
 
 
 <br><br>
