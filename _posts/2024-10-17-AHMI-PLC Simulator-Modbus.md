@@ -58,6 +58,8 @@ End Sub
 ```
 <br><br>
 
+Visual Basic .Net ile yazılan kodu biraz açıklayayım. PilotLight'lar 4 farklı renkten oluşan 4 adet lambalı butonlarımız. Herbirinin Click olayında yani tıklandığında bilgisayar farklı tonda bir ses çıkarıyor. DataSubscriber alt yordamı da sol taraftan forma çektiğimiz (AdvancedHMIDrivers bölümünden) komponente çift tıklayında kod kısmına ekleniyor. İçine yukarıdaki kodları koyuyoruz. Yordamdaki kodlar, PLC'den gelen değer "1" ise bu sesi çıkar, "2" ise şu sesi çıkar gibi basit işler yapıyor. Sondaki PictureBox1_DoubleClick ise AHMI logosuna çift tıklayınca programdan çıkılmasını sağlıyor.
+
 
 
 Bu yazı bitmedi devam edecek..
