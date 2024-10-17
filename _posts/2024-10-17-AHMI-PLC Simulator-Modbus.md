@@ -63,6 +63,7 @@ Visual Basic .Net ile yazılan kodu biraz açıklayayım. PilotLight'lar 4 farkl
 Önceki yazılarda veya bu blog'da About sekmesinde, PureBasic'e hayran kaldığımı ve onu VB.net veya C#'a tercih edeceğimi belirtmiştim. AHMI, bu konuda bir istisnayı kesinlikle hakediyor. Modbus protokolünü doğal olarak desteklemesi ve PB'nin modbus'ı bilmemesi beni bu noktaya getirdi. Ücretsiz olması ve arkasında çok iyi bir forum sitesinin ve .net kodlayıcıların olması artıları kesinlikle. Modbus ve görsellik işlerinde AHMI'ı, diğer işlerde PB'i kullanacağım bir proje kafamda dolaşıyor. İkisi haberleştirmem de çok zor olmayacak sanırım. 
 
 
-
-Bu yazı bitmedi devam edecek..
+<br><br>
+Bu yazı henüz bitmedi devam edecek..
+<br><br>
 
