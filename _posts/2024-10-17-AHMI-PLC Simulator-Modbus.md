@@ -10,7 +10,9 @@ Diğer blog sayfamda [Do-more PLC Simulator ve AdvancedHMI](https://erolcum.blog
 
 Garry, Kanada'da yaşayan saygı değer bir insan. İnsanlarla bilgisini paylaşan birine ancak saygı duyulur çünkü. AdvancedHMI kısaca AHMI'ı araştırırken, onun bir blog yazısında Simon game projesini gördüm ve ben de denemek istedim. Serinin [5. yazısıydı](https://accautomation.ca/building-a-plc-program-that-you-can-be-proud-of-part-5). [Youtube kanalında](https://www.youtube.com/watch?v=CHWee7V1ccE) da videosu mevcut. 
 
-Do-more PLC Simülatör, gerçekten çok güçlü bir yazılım. Soft plc deniyor bu tip yazılımlara. Modbus TCP ve modbus RTU'yu hem server olarak hem de client olarak destekliyor. Bu yazı bitmedi devam edecek..
+Do-more PLC Simülatör, gerçekten çok güçlü bir yazılım. Normalde AutomationDirect PLC için ladder programlama yazılımı ama dahili simülatör, Soft plc gibi çalışabiliyor. Modbus TCP ve modbus RTU'yu hem server, hem de client olarak destekliyor. 300MB civarında bir kurulum dosyası var. Yani bilgisayarı kasmıyor. Modbus TCP server veya slave olarak çalışması için hiçbir ayar yapmanıza gerek kalmıyor. Birçok PLC normalde bir ayar yapmadan modbus server olarak çalışır. Siemens S7-1200 için Tia Portal'da bir kod bloğu koymak gerekiyor. Bu projede PLC server olarak çalışırken, AHMI, modbus client veya master olarak çalışmaktadır. 
+
+Bu yazı bitmedi devam edecek..
 
 
 <br><br>
