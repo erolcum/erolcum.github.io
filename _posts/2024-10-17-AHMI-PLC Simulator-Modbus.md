@@ -7,7 +7,7 @@ title: AdvancedHMI - PLC Simulator - Modbus TCP
 
 <br><br>
 
-```visual basic
+```pb
 Private Sub PilotLight1_Click(sender As Object, e As EventArgs) Handles PilotLight1.Click 
      Console.Beep(415, 420) ' Green Light
 End Sub
