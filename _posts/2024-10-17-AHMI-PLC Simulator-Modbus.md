@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AdvancedHMI-PLC Simulator-Modbus TCP
+title: AdvancedHMI - PLC Simulator - Modbus TCP
 ---
 
 
