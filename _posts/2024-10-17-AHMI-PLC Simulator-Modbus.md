@@ -3,7 +3,7 @@ layout: post
 title: AdvancedHMI - PLC Simulator - Modbus TCP
 ---
 <br><br>
-[Simon oyununu Youtube'dan izleyebilirsin..](https://youtu.be/EesMmNoHW90) PLC, HMI, modbus bunları kim öğrenmek istemez ki 😄hemde hiçbir donanıma gereksinim duymadan.. Sadece eski bir bilgisayar gerekiyor. (eski de olur anlamında)
+[Simon oyununu Youtube'dan izleyebilirsin..](https://youtu.be/EesMmNoHW90) PLC, HMI, Basic kodlama, modbus, bunları kim öğrenmek istemez ki 😄&nbsp; Hem de hiçbir donanıma gereksinim duymadan.. Sadece eski bir bilgisayar gerekiyor. (eski de olur anlamında)
 <br><br>
 
 Diğer blog sayfamda [Do-more PLC Simulator ve AdvancedHMI](https://erolcum.blogspot.com/2023/04/do-more-simulator-advancedhmi-baglants.html) arasında nasıl bağlantı kurulduğundan bahsetmiştim. Programları da aynı blog sayfamdaki linklerden temin edebilirsin.
