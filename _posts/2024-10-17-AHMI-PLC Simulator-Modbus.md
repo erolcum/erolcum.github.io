@@ -7,21 +7,21 @@ title: AdvancedHMI - PLC Simulator - Modbus TCP
 
 <br><br>
 
-```vb
-Private Sub PilotLight1_Click(sender As Object, e As EventArgs) Handles PilotLight1.Click ' Green Light
-     Console.Beep(415, 420)
+```visual basic
+Private Sub PilotLight1_Click(sender As Object, e As EventArgs) Handles PilotLight1.Click 
+     Console.Beep(415, 420) ' Green Light
 End Sub
 
-Private Sub PilotLight2_Click(sender As Object, e As EventArgs) Handles PilotLight2.Click ' Red Light
-     Console.Beep(310, 420)
+Private Sub PilotLight2_Click(sender As Object, e As EventArgs) Handles PilotLight2.Click 
+     Console.Beep(310, 420) ' Red Light
 End Sub
 
-Private Sub PilotLight3_Click(sender As Object, e As EventArgs) Handles PilotLight3.Click ' Yellow Light
-     Console.Beep(252, 420)
+Private Sub PilotLight3_Click(sender As Object, e As EventArgs) Handles PilotLight3.Click 
+     Console.Beep(252, 420) ' Yellow Light
 End Sub
 
-Private Sub PilotLight4_Click(sender As Object, e As EventArgs) Handles PilotLight4.Click ‘ Blue Light
-     Console.Beep(209, 420)
+Private Sub PilotLight4_Click(sender As Object, e As EventArgs) Handles PilotLight4.Click 
+     Console.Beep(209, 420) ' Blue Light
 End Sub
 
 Private Sub DataSubscriber1_DataChanged(sender As Object, e As Drivers.Common.PlcComEventArgs) Handles DataSubscriber1.DataChanged
