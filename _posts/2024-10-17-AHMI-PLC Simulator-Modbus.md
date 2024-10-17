@@ -12,7 +12,7 @@ Garry, Kanada'da yaşayan saygı değer bir insan. İnsanlarla bilgisini paylaş
 
 Do-more PLC Simülatör, gerçekten çok güçlü bir yazılım. Normalde AutomationDirect PLC için ladder programlama yazılımı ama dahili simülatör, Soft plc gibi çalışabiliyor. Modbus TCP ve modbus RTU'yu hem server, hem de client olarak destekliyor. 300MB civarında bir kurulum dosyası var. Yani bilgisayarı kasmıyor. Modbus TCP server veya slave olarak çalışması için hiçbir ayar yapmanıza gerek kalmıyor. Birçok PLC normalde bir ayar yapmadan modbus server olarak çalışır. Siemens S7-1200 için Tia Portal'da bir kod bloğu koymak gerekiyor. Bu projede PLC server olarak çalışırken, AHMI, modbus client veya master olarak çalışmaktadır. 
 
-Bu yazı bitmedi devam edecek..
+
 
 
 <br><br>
@@ -58,4 +58,8 @@ Private Sub PictureBox1_DoubleClick(sender As Object, e As EventArgs) Handles Pi
 End Sub
 ```
 <br><br>
+
+
+
+Bu yazı bitmedi devam edecek..
 
