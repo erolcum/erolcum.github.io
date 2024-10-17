@@ -5,6 +5,8 @@ title: AdvancedHMI - PLC Simulator - Modbus TCP
 
 Diğer blog sayfamda [Do-more PLC Simulator ve AdvancedHMI](https://erolcum.blogspot.com/2023/04/do-more-simulator-advancedhmi-baglants.html) arasında nasıl bağlantı kurulduğundan bahsetmiştim. Programları da aynı blog sayfamdaki linklerden temin edebilirsin.
 
+Bu yazı bitmedi devam edecek..
+
 
 <br><br>
 
