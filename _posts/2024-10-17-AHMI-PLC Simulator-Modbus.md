@@ -14,7 +14,6 @@ Simon game projesini, burada paylaştım. Çünkü kullanılan simülatörün ve
 Do-more PLC Simülatör, gerçekten çok güçlü bir yazılım. Normalde AutomationDirect PLC için ladder programlama yazılımı ama dahili simülatör, Soft plc gibi çalışabiliyor. Modbus TCP ve modbus RTU'yu hem server, hem de client olarak destekliyor. 300MB civarında bir kurulum dosyası var. Yani bilgisayarı kasmıyor. Modbus TCP server veya slave olarak çalışması için hiçbir ayar yapmanıza gerek kalmıyor. Birçok PLC normalde bir ayar yapmadan modbus server olarak çalışır. Siemens S7-1200 için Tia Portal'da bir kod bloğu koymak gerekiyor. Bu projede PLC server olarak çalışırken, AHMI, modbus client veya master olarak çalışmaktadır.
 
 AdvancedHMI ise bir Visual Studio çözüm (.sln) dosyasıdır. Kullanmak için en azından Visual Studio 2017 community sürümü gerekiyor. Yukarıda belirttiğim gibi gerekli linkleri diğer blog sayfamda bulabilirsin. Hiçbir kod yazmadan, veya aşağıdaki gibi az bir kod ekleyerek kullanım amacımıza göre çözüm oluşturulabiliyor. 
-
 <br><br>
 
 ```vb
@@ -58,7 +57,6 @@ Private Sub PictureBox1_DoubleClick(sender As Object, e As EventArgs) Handles Pi
 End Sub
 ```
 <br><br>
-
 Visual Basic .Net ile yazılan kodu biraz açıklayayım. PilotLight'lar 4 farklı renkten oluşan 4 adet lambalı butonlarımız. Herbirinin Click olayında yani tıklandığında bilgisayar farklı tonda bir ses çıkarıyor. DataSubscriber alt yordamı da sol taraftan forma çektiğimiz (AdvancedHMIDrivers bölümünden) DataSubscriber komponentine çift tıklayında kod kısmına ekleniyor. İçine yukarıdaki kodları koyuyoruz. Yordamdaki kodlar, PLC'den gelen değer "1" ise bu sesi çıkar, "2" ise şu sesi çıkar gibi basit işler yapıyor. Sondaki PictureBox1_DoubleClick ise AHMI logosuna çift tıklayınca programdan çıkılmasını sağlıyor. Kod bölümüne eklemek için formda logoyu tıklayın. Sağ tarafta gözüken özellikler (properties) bölümünün üstündeki şimşek ikonuna tıklayın. Şimşek, bu arkadaşın olaylarına ulaşmamızı sağlıyor. Olaylardan çift tıklama yani DoubleClick'in yanındaki boşluğa çift tıklayın. Bu hareketler, .net ortamında hiç uğraşmayan birine anlamsız veya zor gelebilir, doğaldır.
 
 Önceki yazılarda veya bu blog'da About sekmesinde, PureBasic'e hayran kaldığımı ve onu VB.net veya C#'a tercih edeceğimi belirtmiştim. AHMI, bu konuda bir istisnayı kesinlikle hakediyor. Modbus protokolünü doğal olarak desteklemesi ve PB'nin modbus'ı bilmemesi beni bu noktaya getirdi. Ücretsiz olması ve arkasında çok iyi bir forum sitesinin ve .net kodlayıcıların olması artıları kesinlikle. Modbus ve görsellik işlerinde AHMI'ı, diğer işlerde PB'i kullanacağım bir proje aklımda var. İkisini haberleştirmem de çok zor olmayacak sanırım. 
