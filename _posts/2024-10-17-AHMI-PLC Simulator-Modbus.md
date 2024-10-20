@@ -61,7 +61,7 @@ Visual Basic .Net ile yazılan kodu biraz açıklayayım. PilotLight'lar 4 farkl
 
 Bu blog'da About sekmesinde, PureBasic'e hayran kaldığımı ve onu VB.net veya C#'a tercih edeceğimi belirtmiştim. AHMI, bu konuda bir istisnayı kesinlikle hakediyor. Ücretsiz olması ve arkasında çok iyi bir forum sitesinin ve .net kodlayıcıların olması artıları kesinlikle. Modbus protokolünü doğal olarak desteklemesi ve PB'in modbus'ı bilmemesi aklıma yeni bir fikir getirdi. Örneğin bir projede, modbus için AHMI'ı kullanarak, PB'e bilgi aktarmasını sağlayabilirim. 
 
-AHMI ile bir sürü para verilerek edinilen scada yazılımlarının yaptığı işleri de yapmanız mümkün olabilir. Kodlama işlerine girmeniz ve biraz AHMI forum sitesini dolaşmanız şartıyla tabii. Örneğin SQL server'dan bilgi alınması veya server'a bir kayıt girilmesi işleri, AHMI ile yapılabilmektedir.
+AHMI ile bir sürü para verilerek edinilen scada yazılımlarının yaptığı işleri de yapmak mümkün olabilir. Kodlama işlerine girmek ve biraz AHMI forum sitesini dolaşmak şartıyla tabii. Örneğin SQL server'dan bilgi alınması veya server'a bir kayıt girilmesi işleri, AHMI ile yapılabilmektedir. Garry'nin AHMI yazılarına [linkten](https://accautomation.ca/category/hmi/advancedhmi) ulaşabilirsin.
 
 <br><br>
 <br><br>
