@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ben kimim ?
+title: Hakkımda
 permalink: /about/
 ---
 
